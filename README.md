@@ -4,7 +4,7 @@
 
 **Access this demo site**: https://feature-tour.netlify.app
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fad6792e-1c44-44db-bd79-ea74b42b0f89/deploy-status)](https://app.netlify.com/sites/feature-tour/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/660aa7a7-f40e-4c06-a602-77d2c2cf6c22/deploy-status)](https://app.netlify.com/sites/casadevops/deploys)
 
 ## About this example site
 
